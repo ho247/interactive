@@ -1,4 +1,4 @@
-# interactive
+# Interactive
 
 Assignments
 
