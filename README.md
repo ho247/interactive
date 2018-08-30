@@ -1,9 +1,8 @@
-# Interactive
+# Interactive Devices
 
-Assignments
+## Assignments 
+1. [ Title ](artifacts/assignment1/) 
 
-1. ...
 
-Labs
-
-2. ...
+## Labs
+1. [  Title  ](artifacts/lab1/)
