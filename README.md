@@ -2,9 +2,9 @@
 Name: Hongyun(Kevin) Oh
 NetID: ho247
 
-## Labs
+## Lab submissions
 1. [ Blink!](https://github.com/contactkoh/IDD-Fa18-Lab1)
 
 
-## Assignments
+## Lab Prep submissions
 1. [ Title ](artifacts/assignment1/) 
