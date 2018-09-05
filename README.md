@@ -7,4 +7,4 @@ NetID: ho247
 
 
 ## Lab Prep submissions
-1. [ Title ](artifacts/assignment1/) 
+1. [ Title ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
