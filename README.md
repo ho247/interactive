@@ -8,6 +8,6 @@ NetID: ho247
 2. [ Digital Timer ](https://github.com/contactkoh/IDD-Fa18-Lab2)
 
 ## Lab Prep submissions
-1. [ Title ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
+1. [ 10 sketches ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
 
-2. [ Title ](https://github.com/contactkoh/lab-prep2/blob/master/README.md) 
+2. [ pre fpr Sept 11 ](https://github.com/contactkoh/lab-prep2/blob/master/README.md) 
