@@ -5,6 +5,9 @@ NetID: ho247
 ## Lab submissions
 1. [ Blink!](https://github.com/contactkoh/IDD-Fa18-Lab1)
 
+2. [ Digital Timer ](https://github.com/contactkoh/IDD-Fa18-Lab2)
 
 ## Lab Prep submissions
 1. [ Title ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
+
+2. [ Title ](https://github.com/contactkoh/lab-prep2/blob/master/README.md) 
