@@ -10,4 +10,4 @@ NetID: ho247
 ## Lab Prep submissions
 1. [ 10 sketches ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
 
-2. [ pre fpr Sept 11 ](https://github.com/contactkoh/lab-prep2/blob/master/README.md) 
+2. [ lab pre Sept 11 ](https://github.com/contactkoh/lab-prep2/blob/master/README.md) 
