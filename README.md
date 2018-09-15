@@ -7,7 +7,7 @@ NetID: ho247
 
 2. [ Digital Timer ](https://github.com/contactkoh/IDD-Fa18-Lab2)
 
-3. [ Data Logger ] (https://github.com/contactkoh/IDD-Fa18-Lab3)
+3. [ Data Logger ](https://github.com/contactkoh/IDD-Fa18-Lab3)
 
 ## Lab Prep submissions
 1. [ 10 sketches ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
