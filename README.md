@@ -13,3 +13,5 @@ NetID: ho247
 1. [ 10 sketches ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
 
 2. [ lab pre Sept 11 ](https://github.com/contactkoh/lab-prep3/blob/master/README.md) 
+
+2. [ lab pre Sept 18 ](https://github.com/contactkoh/lab-prep4/blob/master/README.md) 
