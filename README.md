@@ -9,6 +9,9 @@ NetID: ho247
 
 3. [ Data Logger ](https://github.com/contactkoh/IDD-Fa18-Lab3)
 
+4. [ Paper Puppet ](https://github.com/contactkoh/IDD-Fa18-Lab4)
+
+
 ## Lab Prep submissions
 1. [ 10 sketches ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
 
