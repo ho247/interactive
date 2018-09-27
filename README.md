@@ -17,4 +17,7 @@ NetID: ho247
 
 2. [ lab pre Sept 11 ](https://github.com/contactkoh/lab-prep3/blob/master/README.md) 
 
-2. [ lab pre Sept 18 ](https://github.com/contactkoh/lab-prep4/blob/master/README.md) 
+3. [ lab pre Sept 18 ](https://github.com/contactkoh/lab-prep4/blob/master/README.md) 
+
+4. [ lab pre Sept 26 ](https://github.com/contactkoh/lab-prep5/blob/master/README.md) 
+
