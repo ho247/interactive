@@ -11,6 +11,8 @@ NetID: ho247
 
 4. [ Paper Puppet ](https://github.com/contactkoh/IDD-Fa18-Lab4)
 
+5. [ Useless Box ](https://github.com/contactkoh/IDD-Fa18-Lab5)
+
 
 ## Lab Prep submissions
 1. [ 10 sketches ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
@@ -20,4 +22,3 @@ NetID: ho247
 3. [ lab pre Sept 18 ](https://github.com/contactkoh/lab-prep4/blob/master/README.md) 
 
 4. [ lab pre Sept 26 ](https://github.com/contactkoh/pre-lab5/blob/master/README.md) 
-
