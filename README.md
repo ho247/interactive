@@ -11,7 +11,7 @@ NetID: ho247
 
 4. [ Paper Puppet ](https://github.com/contactkoh/IDD-Fa18-Lab4)
 
-5. [ Useless Box ](https://github.com/contactkoh/IDD-Fa18-Lab5)
+5. [ Useless Box ](https://github.com/contactkoh/ID-Fa18-Lab5)
 
 
 ## Lab Prep submissions
