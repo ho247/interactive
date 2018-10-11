@@ -4,6 +4,8 @@ Name: Hongyun(Kevin) Oh
 
 NetID: ho247
 
+To be Completed on Due dates:
+
 ## Lab submissions
 1. [ Blink!](https://github.com/contactkoh/IDD-Fa18-Lab1)
 
@@ -14,6 +16,8 @@ NetID: ho247
 4. [ Paper Puppet ](https://github.com/contactkoh/IDD-Fa18-Lab4)
 
 5. [ Useless Box ](https://github.com/contactkoh/IDD-Fa18-Lab5)
+
+6. [ Chatbot ](https://github.com/contactkoh/IDD-Fa18-Lab6)
 
 
 ## Lab Prep submissions
