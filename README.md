@@ -31,3 +31,4 @@ To be Completed on Due dates:
 
 5. [ lab pre Oct 10 ](https://github.com/contactkoh/prelab-6)
 
+5. [ lab pre Oct 17 ](https://github.com/contactkoh/prelab-7)
