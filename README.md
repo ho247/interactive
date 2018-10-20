@@ -19,6 +19,8 @@ To be Completed on Due dates:
 
 6. [ Chatbot ](https://github.com/contactkoh/IDD-Fa18-Lab6)
 
+7. [ Doorbell ](https://github.com/contactkoh/IDD-Fa18-Lab7)
+
 
 ## Lab Prep submissions
 1. [ 10 sketches ](https://github.com/contactkoh/lab-prep1/blob/master/README.md) 
