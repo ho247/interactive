@@ -1,8 +1,8 @@
 # Interactive Devices
 
-Name: Hongyun(Kevin) Oh
+Name: 
 
-NetID: ho247
+NetID:
 
 To be Completed on Due dates:
 
